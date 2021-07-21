@@ -1,0 +1,1 @@
+replacing printf by echo
